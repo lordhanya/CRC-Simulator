@@ -11,6 +11,10 @@ This program provides a complete visual demonstration of the CRC error detection
 3. **Receiver Side**: Verifies data integrity using CRC verification
 4. **Error Handling**: Detects errors and requests retransmission if needed
 
+## 📸 Screenshot
+
+<img width="1152" height="354" alt="Screenshot_20251206_125535" src="https://github.com/user-attachments/assets/9a6054de-b3fd-49a6-b211-0ef84e215b31" />
+
 ## 🚀 How to Run
 
 ```bash
